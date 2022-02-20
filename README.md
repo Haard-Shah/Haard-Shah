@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Haard 👋 👨‍💻
 
 <!--
 **Haard-Shah/Haard-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Computer Science and Mechatronics Engineering Student who is passionate about the AI for Good initiative, contributions to open-source community, creating technology to improve well-being, and building community for next generation of developers. I volunteering my time to projects that have the capability to make an impact in this world, wheater its for our environment or our people in need. My pick of poison is Python. 
+
+[![Haard's GitHub stats](https://github-readme-stats.vercel.app/api?username=haard-shah&show_icons=true)](https://github.com/haard-shah/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haard-shah&layout=compact)](https://github.com/haard-shah/github-readme-stats)
