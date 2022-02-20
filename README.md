@@ -1,7 +1,10 @@
 ### Hi there, I am Haard 👋 👨‍💻
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
+
+![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![Linkedin Badge](https://img.shields.io/badge/-Haard-Shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/haard-s-732756107)](www.linkedin.com/in/haard-s-732756107)
-[![Github Follow Badge](https://img.shields.io/github/followers/Haard-Shah?style=social)]
+![Github Follow Badge](https://img.shields.io/github/followers/Haard-Shah?style=social)
+
+[![Linkedin Badge](https://img.shields.io/badge/-HaardShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/haard-s-732756107)](www.linkedin.com/in/haard-s-732756107)
 
 <!--
 **Haard-Shah/Haard-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
