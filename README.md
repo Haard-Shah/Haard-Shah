@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-HaardShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/haard-s-732756107)](www.linkedin.com/in/haard-s-732756107) ![Github Follow Badge](https://img.shields.io/github/followers/Haard-Shah?style=social)
-
+[![Linkedin Badge](https://img.shields.io/badge/-HaardShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/haard-s-732756107)](www.linkedin.com/in/haard-s-732756107) ![Github Follow Badge](https://img.shields.io/github/followers/Haard-Shah?style=social) <img alt="Profile Hits" src="https://komarev.com/ghpvc/?username=haard-shah&color=36bcf7&style=circle">
 
 
 I'm a Computer Science and Mechatronics Engineering Student who is passionate about the AI for Good initiative, contributions to open-source community, creating technology to improve well-being, and building community for next generation of developers. I volunteering my time to projects that have the capability to make an impact in this world, whether  its for our environment or our people in need. My pick of poison is Python. 
