@@ -30,3 +30,5 @@ I am currently learning Flutter App development and its integration with Python 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haard-shah&layout=compact)](https://github.com/haard-shah/github-readme-stats)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
